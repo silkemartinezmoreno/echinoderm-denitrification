@@ -1,5 +1,7 @@
 # Denitrification genes in echinoderm biofilm and subcuticular microbiomes
 
+[![DOI](https://zenodo.org/badge/1455852032.svg)](https://doi.org/10.5281/zenodo.24177651)
+
 Code and data to reproduce the results of:
 
 > Martínez-Moreno S, Tirado-Serrano A, Ferrera I, Reche I. *Beyond the host: denitrification genes in echinoderm biofilm and subcuticular microbiomes.* Animal Microbiome (submitted).
@@ -93,6 +95,12 @@ The exact package versions of the last run are saved by `run_all.R` in `results/
 └── results/
     └── tables/                   # result tables
 ```
+
+## How to cite
+
+If you use this code or data, please cite the article above and this repository:
+
+> Martínez-Moreno S. (2026). Code and data for "Beyond the host: denitrification genes in echinoderm biofilm and subcuticular microbiomes" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24177652
 
 ## License
 
